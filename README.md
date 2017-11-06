@@ -1,3 +1,5 @@
+# Biz.me
+
 ## Usage
 
 Be sure that you have the latest node, npm and [Hugo](https://gohugo.io/) installed. If you need to install hugo, run:
